@@ -11,28 +11,7 @@ YouTube Summarizer is an automated tool that fetches transcripts from YouTube vi
 Python
 YouTube Data API for transcript retrieval
 Google Generative Language API for summarization and question-answering
-🚀 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your_username/youtube-summarizer.git
-cd youtube-summarizer
-Install requirements:
-
-bash
-Copy code
-pip install -r requirements.txt
-Set up the API Key as an environment variable:
-
-bash
-Copy code
-export YOUR_API_KEY_ENV_VAR="your_api_key"
-Run the script:
-
-bash
-Copy code
-python youtube_summarizer.py
 📖 Usage
 Enter the YouTube video link or ID when prompted. This specifies the video you want to summarize.
 
