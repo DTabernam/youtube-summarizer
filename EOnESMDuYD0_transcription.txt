@@ -1,0 +1,587 @@
+[
+    {
+        "text": "et ebay cela tous africaine est",
+        "start": 0.0,
+        "duration": 3.72
+    },
+    {
+        "text": "aujourd'hui en ce sens pour une nouvelle",
+        "start": 1.89,
+        "duration": 4.26
+    },
+    {
+        "text": "vidéo simplement à nouveau plutôt réel",
+        "start": 3.72,
+        "duration": 3.929
+    },
+    {
+        "text": "les gars je vais vous apprendre active",
+        "start": 6.15,
+        "duration": 4.71
+    },
+    {
+        "text": "et votons sur puisse cheminer si vous",
+        "start": 7.649,
+        "duration": 5.131
+    },
+    {
+        "text": "n'êtes pas tous les partenaires ou si",
+        "start": 10.86,
+        "duration": 4.199
+    },
+    {
+        "text": "vous n'êtes toujours pas à filer les",
+        "start": 12.78,
+        "duration": 4.079
+    },
+    {
+        "text": "gars c'est très simple là quand vous",
+        "start": 15.059,
+        "duration": 4.261
+    },
+    {
+        "text": "allez allez sur machette which vous",
+        "start": 16.859,
+        "duration": 6.26
+    },
+    {
+        "text": "allez remarquer que je n'ai que 28",
+        "start": 19.32,
+        "duration": 3.799
+    },
+    {
+        "text": "donc je suis pas fier et je ne suis pas",
+        "start": 23.96,
+        "duration": 4.78
+    },
+    {
+        "text": "juge partenaires mais quand vous allez",
+        "start": 26.55,
+        "duration": 4.469
+    },
+    {
+        "text": "système hebdo vous allez voir qu'on a",
+        "start": 28.74,
+        "duration": 6.11
+    },
+    {
+        "text": "j'ai un petit pas d'autres dotations et",
+        "start": 31.019,
+        "duration": 7.11
+    },
+    {
+        "text": "voilà et les gens peuvent me donner de",
+        "start": 34.85,
+        "duration": 5.32
+    },
+    {
+        "text": "l'argent que ce soit pendant mes slim ou",
+        "start": 38.129,
+        "duration": 4.52
+    },
+    {
+        "text": "pas d'ailleurs bref voilà",
+        "start": 40.17,
+        "duration": 4.5
+    },
+    {
+        "text": "le laquelle vous apprendre simplement à",
+        "start": 42.649,
+        "duration": 4.331
+    },
+    {
+        "text": "faire ça et faire ça c'est très simple",
+        "start": 44.67,
+        "duration": 5.19
+    },
+    {
+        "text": "il vous tout d'abord d'avoir un triple à",
+        "start": 46.98,
+        "duration": 4.169
+    },
+    {
+        "text": "pourquoi là pour ça vous allez allez sur",
+        "start": 49.86,
+        "duration": 3.06
+    },
+    {
+        "text": "le site de streaming ce crime outre qu",
+        "start": 51.149,
+        "duration": 3.421
+    },
+    {
+        "text": "on peut connecter xsara et il faut que",
+        "start": 52.92,
+        "duration": 3.93
+    },
+    {
+        "text": "ça c'est fait vous allez tout simplement",
+        "start": 54.57,
+        "duration": 4.1
+    },
+    {
+        "text": "année sur tableau de bord",
+        "start": 56.85,
+        "duration": 4.38
+    },
+    {
+        "text": "une fois que vous êtes sur le tableau de",
+        "start": 58.67,
+        "duration": 5.949
+    },
+    {
+        "text": "bord ou en anglais le dashboard vous",
+        "start": 61.23,
+        "duration": 4.56
+    },
+    {
+        "text": "êtes simplement les temps la part de",
+        "start": 64.619,
+        "duration": 5.0
+    },
+    {
+        "text": "recherche et écrire tout ça il",
+        "start": 65.79,
+        "duration": 3.829
+    },
+    {
+        "text": "faut que vous êtes ici les gars sur",
+        "start": 70.43,
+        "duration": 4.299
+    },
+    {
+        "text": "cette page là vous allez tout simplement",
+        "start": 72.9,
+        "duration": 4.68
+    },
+    {
+        "text": "lier votre compte paypal bon vouloir",
+        "start": 74.729,
+        "duration": 6.271
+    },
+    {
+        "text": "conflit panne est déjà lié en voilà jean",
+        "start": 77.58,
+        "duration": 5.88
+    },
+    {
+        "text": "resseguie rodier sinon elle pouvait tout",
+        "start": 81.0,
+        "duration": 4.77
+    },
+    {
+        "text": "simplement cliquer et ça vous embête se",
+        "start": 83.46,
+        "duration": 3.479
+    },
+    {
+        "text": "connecte à paypal ce que moi je vais pas",
+        "start": 85.77,
+        "duration": 2.61
+    },
+    {
+        "text": "le dire parce que je suis déjà connectés",
+        "start": 86.939,
+        "duration": 3.901
+    },
+    {
+        "text": "mais aussi aussi ajouté vous carte de",
+        "start": 88.38,
+        "duration": 4.529
+    },
+    {
+        "text": "crédit est ce qu'il est je sais pas",
+        "start": 90.84,
+        "duration": 4.319
+    },
+    {
+        "text": "c'est quoi bref tout cas voilà il ya 3 -",
+        "start": 92.909,
+        "duration": 4.081
+    },
+    {
+        "text": "de payement donc c'est soit paypal soit",
+        "start": 95.159,
+        "duration": 4.611
+    },
+    {
+        "text": "par carte de crédit pascal",
+        "start": 96.99,
+        "duration": 4.98
+    },
+    {
+        "text": "une fois que tu avais lier votre conflit",
+        "start": 99.77,
+        "duration": 4.18
+    },
+    {
+        "text": "pas les gars vous devait aller dans",
+        "start": 101.97,
+        "duration": 4.29
+    },
+    {
+        "text": "paramètres pour simplement modifier un",
+        "start": 103.95,
+        "duration": 4.95
+    },
+    {
+        "text": "peu votre lien vous modifiez le menton",
+        "start": 106.26,
+        "duration": 4.95
+    },
+    {
+        "text": "suggéré le montant suggérait de base est",
+        "start": 108.9,
+        "duration": 4.29
+    },
+    {
+        "text": "de 5 euros 1 mois et demi d euros pour",
+        "start": 111.21,
+        "duration": 3.42
+    },
+    {
+        "text": "inciter les gens à deux un peu plus quoi",
+        "start": 113.19,
+        "duration": 3.54
+    },
+    {
+        "text": "le montant minimum donc moi j'ai mis un",
+        "start": 114.63,
+        "duration": 4.32
+    },
+    {
+        "text": "euro et par exemple la longueur des",
+        "start": 116.73,
+        "duration": 3.93
+    },
+    {
+        "text": "messages etc la devise vous pouvez",
+        "start": 118.95,
+        "duration": 4.34
+    },
+    {
+        "text": "changer à nice et en usd donc dollars",
+        "start": 120.66,
+        "duration": 4.74
+    },
+    {
+        "text": "pour mettre en euros ce que je vais",
+        "start": 123.29,
+        "duration": 4.15
+    },
+    {
+        "text": "faire d'ailleurs et une fois que vous",
+        "start": 125.4,
+        "duration": 4.85
+    },
+    {
+        "text": "avez fini",
+        "start": 127.44,
+        "duration": 2.81
+    },
+    {
+        "text": "2",
+        "start": 130.88,
+        "duration": 5.23
+    },
+    {
+        "text": "2 tout paramétrer voilà vous avez tout",
+        "start": 133.73,
+        "duration": 4.0
+    },
+    {
+        "text": "simplement à faire enregistrer des",
+        "start": 136.11,
+        "duration": 5.73
+    },
+    {
+        "text": "paramètres voilà et une fois enregistré",
+        "start": 137.73,
+        "duration": 6.39
+    },
+    {
+        "text": "les paramètres vous allez allez ici en",
+        "start": 141.84,
+        "duration": 5.369
+    },
+    {
+        "text": "fait ça va être horrible outre page ça",
+        "start": 144.12,
+        "duration": 5.55
+    },
+    {
+        "text": "c'est tout simplement la page sur",
+        "start": 147.209,
+        "duration": 4.711
+    },
+    {
+        "text": "laquelle des douleurs peuvent aller pour",
+        "start": 149.67,
+        "duration": 4.74
+    },
+    {
+        "text": "vous donner de l'argent il faut que vous",
+        "start": 151.92,
+        "duration": 4.77
+    },
+    {
+        "text": "avez copié le lien vous allez sur switch",
+        "start": 154.41,
+        "duration": 4.49
+    },
+    {
+        "text": "sur votre chaîne",
+        "start": 156.69,
+        "duration": 3.83
+    },
+    {
+        "text": "chef",
+        "start": 158.9,
+        "duration": 4.119
+    },
+    {
+        "text": "et moi je vais trop faire avec vraiment",
+        "start": 160.52,
+        "duration": 3.939
+    },
+    {
+        "text": "je vais pour faire avec vous le juste",
+        "start": 163.019,
+        "duration": 4.761
+    },
+    {
+        "text": "m'assurer que j'ai ma petite image",
+        "start": 164.459,
+        "duration": 6.081
+    },
+    {
+        "text": "que je n'ai pas",
+        "start": 167.78,
+        "duration": 5.23
+    },
+    {
+        "text": "je vais pour faire avec les gars vous",
+        "start": 170.54,
+        "duration": 6.43
+    },
+    {
+        "text": "allez aller dans bio on va mais de ça",
+        "start": 173.01,
+        "duration": 6.33
+    },
+    {
+        "text": "vous allez faire éditer les badauds donc",
+        "start": 176.97,
+        "duration": 5.64
+    },
+    {
+        "text": "attendez je vais juste en dessous voilà",
+        "start": 179.34,
+        "duration": 5.57
+    },
+    {
+        "text": "on va la mettre",
+        "start": 182.61,
+        "duration": 4.67
+    },
+    {
+        "text": "hop",
+        "start": 184.91,
+        "duration": 4.35
+    },
+    {
+        "text": "faire éditer les panneaux donc moi j'ai",
+        "start": 187.28,
+        "duration": 5.039
+    },
+    {
+        "text": "lu pas de donation que je vais enlever",
+        "start": 189.26,
+        "duration": 5.73
+    },
+    {
+        "text": "un dur coup pour tout recommencer et",
+        "start": 192.319,
+        "duration": 4.471
+    },
+    {
+        "text": "vous normand vous arrivez sur une page",
+        "start": 194.99,
+        "duration": 3.09
+    },
+    {
+        "text": "ici vous avez aucun panneau vous",
+        "start": 196.79,
+        "duration": 2.55
+    },
+    {
+        "text": "arriverez sur une page ici il y aura",
+        "start": 198.08,
+        "duration": 2.94
+    },
+    {
+        "text": "juste un peu plus ici et ça vous",
+        "start": 199.34,
+        "duration": 3.33
+    },
+    {
+        "text": "demandait de rajouter un badaud donc",
+        "start": 201.02,
+        "duration": 3.39
+    },
+    {
+        "text": "vous allez mettre le doute de votre",
+        "start": 202.67,
+        "duration": 3.69
+    },
+    {
+        "text": "cadeau moi je vais écrire dont le",
+        "start": 204.41,
+        "duration": 3.45
+    },
+    {
+        "text": "ajouter une petite image donc voici",
+        "start": 206.36,
+        "duration": 4.01
+    },
+    {
+        "text": "l'image que je viens de télécharger",
+        "start": 207.86,
+        "duration": 6.69
+    },
+    {
+        "text": "tech et le lien d'image donc c'est le",
+        "start": 210.37,
+        "duration": 6.46
+    },
+    {
+        "text": "lien sur lequel vos vieux meurent sont",
+        "start": 214.55,
+        "duration": 3.96
+    },
+    {
+        "text": "dirigés une fois qu'ils ont cliqué sur",
+        "start": 216.83,
+        "duration": 4.8
+    },
+    {
+        "text": "l'image et vous que les liens qu'on",
+        "start": 218.51,
+        "duration": 5.63
+    },
+    {
+        "text": "avait coupé tout à l'heure pour émettre",
+        "start": 221.63,
+        "duration": 4.52
+    },
+    {
+        "text": "[Musique]",
+        "start": 224.14,
+        "duration": 6.28
+    },
+    {
+        "text": "par exemple un petit texte donc moi je",
+        "start": 226.15,
+        "duration": 6.33
+    },
+    {
+        "text": "vais m",
+        "start": 230.42,
+        "duration": 5.39
+    },
+    {
+        "text": "faites un petit on",
+        "start": 232.48,
+        "duration": 3.33
+    },
+    {
+        "text": "les habille",
+        "start": 237.79,
+        "duration": 4.93
+    },
+    {
+        "text": "tech et vous allez tout simplement",
+        "start": 239.8,
+        "duration": 5.58
+    },
+    {
+        "text": "cliquer sur envoyer",
+        "start": 242.72,
+        "duration": 2.66
+    },
+    {
+        "text": "et à partir du moment c'est bon c'est",
+        "start": 245.969,
+        "duration": 5.77
+    },
+    {
+        "text": "envoyé vous allez tout simplement aller",
+        "start": 249.28,
+        "duration": 5.25
+    },
+    {
+        "text": "dans bio vous devez cocher cette case",
+        "start": 251.739,
+        "duration": 4.53
+    },
+    {
+        "text": "vous allez voir qu'il ya un nouveau",
+        "start": 254.53,
+        "duration": 3.989
+    },
+    {
+        "text": "panneau qui s'est créé le petit badau",
+        "start": 256.269,
+        "duration": 3.891
+    },
+    {
+        "text": "dons",
+        "start": 258.519,
+        "duration": 3.9
+    },
+    {
+        "text": "et à partir de ce moment là les gars",
+        "start": 260.16,
+        "duration": 4.8
+    },
+    {
+        "text": "c'est bon vous peuvent",
+        "start": 262.419,
+        "duration": 5.071
+    },
+    {
+        "text": "désormais vous faire des dons même si",
+        "start": 264.96,
+        "duration": 6.34
+    },
+    {
+        "text": "vous n'êtes ni du partenaire sur ce que",
+        "start": 267.49,
+        "duration": 5.19
+    },
+    {
+        "text": "j'espère que la vidéo vous a plus ici",
+        "start": 271.3,
+        "duration": 3.0
+    },
+    {
+        "text": "canesta pas lâcher un gros push bleus et",
+        "start": 272.68,
+        "duration": 3.75
+    },
+    {
+        "text": "abu dhabi n'est pas quand les gars et",
+        "start": 274.3,
+        "duration": 5.149
+    },
+    {
+        "text": "chaque job",
+        "start": 276.43,
+        "duration": 3.019
+    },
+    {
+        "text": "[Musique]",
+        "start": 282.13,
+        "duration": 6.36
+    }
+]
