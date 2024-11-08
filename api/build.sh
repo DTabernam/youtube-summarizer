@@ -1,3 +1,3 @@
 pip install -r requierements.txt
-python manage.py collectstatic --no-input
-python manage.py migrate 
+python api/manage.py collectstatic --no-input
+python api/manage.py migrate 
