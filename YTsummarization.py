@@ -5,7 +5,7 @@ import json
 import requests
 video_input = input('\033[1;33m'+"Please input the YouTube video link or ID: ")
 video_id = re.sub(r"(https?://)?(www\.)?(youtube\.com|youtu\.be)/(watch\?v=)?", "", video_input)
-transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['es', 'en'])
+transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['es', 'en', 'fr'])
 with open(f"{video_id}_transcription.txt", "w", encoding="utf-8") as f:
     f.write(json.dumps(transcript, ensure_ascii=False, indent=4))
 with open(f"{video_id}_transcription.txt", "r", encoding="utf-8") as f:
