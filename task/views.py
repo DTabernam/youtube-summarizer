@@ -41,7 +41,7 @@ class VideoSummaryAPIView(APIView):
 
     def get_transcript(self, video_id, lang):
         try:
-            transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=[lang] cookies=None)
+            transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=[lang])
             return json.dumps(transcript, ensure_ascii=False, indent=4)
         except Exception as e:
             raise Exception(f"Error fetching transcript: {str(e)}")
