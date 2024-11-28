@@ -38,7 +38,7 @@ export default function VideoSummaryMorphic() {
     }
     setLoading(true)
     try {
-      const response = await fetch(`http://134.122.77.131:8000/video-summary/?name=${encodeURIComponent(videoID)}&lang=${encodeURIComponent(lang)}`, {
+      const response = await fetch(`https://7dfd-134-122-77-131.ngrok-free.app/video-summary/?name=${encodeURIComponent(videoID)}&lang=${encodeURIComponent(lang)}`, {
         method: 'POST',
       })
       
@@ -64,7 +64,7 @@ export default function VideoSummaryMorphic() {
     }
     setLoading(true)
     try {
-      const response = await fetch(`http://134.122.77.131:8000/ask-question/`, {
+      const response = await fetch(`https://7dfd-134-122-77-131.ngrok-free.app/ask-question/`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
