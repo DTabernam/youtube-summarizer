@@ -32,7 +32,6 @@ export default function VideoSummaryMorphic() {
     e.preventDefault()
     
     const videoID = getYouTubeID(videoUrl)
-    
     if (!videoID) {
       alert('Invalid YouTube ID or URL. Please enter a valid ID or URL.')
       return
